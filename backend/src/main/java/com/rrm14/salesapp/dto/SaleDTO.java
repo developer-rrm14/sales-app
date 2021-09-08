@@ -2,13 +2,8 @@ package com.rrm14.salesapp.dto;
 
 import java.io.Serializable;
 import java.time.LocalDate;
-import java.util.List;
-
-import javax.persistence.JoinColumn;
-import javax.persistence.ManyToOne;
 
 import com.rrm14.salesapp.entity.SaleEntity;
-import com.rrm14.salesapp.entity.SellerEntity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

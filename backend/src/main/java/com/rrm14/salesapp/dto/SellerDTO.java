@@ -1,9 +1,7 @@
 package com.rrm14.salesapp.dto;
 
 import java.io.Serializable;
-import java.util.List;
 
-import com.rrm14.salesapp.entity.SaleEntity;
 import com.rrm14.salesapp.entity.SellerEntity;
 
 import lombok.AllArgsConstructor;
